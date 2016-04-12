@@ -1,0 +1,30 @@
+{
+
+  "root":[
+    {"folder_name": "name",
+     "inner_folders": 0,
+      "have_files" : false,
+      "files_list" : [
+        {
+          "name":"",
+          "src": ""
+        }
+      ]
+    },
+    {
+      "folder_name": "ololo",
+      "inner_folders": 0,
+      "folders_list": [{
+        "folder_name":"ololo1"
+      }],
+      "have_files" : false,
+      "files_list" : [
+        {
+          "name":"",
+          "src": ""
+        }
+      ]
+    }
+  ]
+
+}
